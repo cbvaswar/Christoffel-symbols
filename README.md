@@ -1,7 +1,7 @@
- Christoffel-symbols \\
+ Christoffel-symbols 
  
-Calculate Christoffel symbols (e.g Schwarzschild metric, FLRW metric, Perturbed FLRW metric) \\
-Display math:
+Calculate Christoffel symbols (e.g Schwarzschild metric, FLRW metric, Perturbed FLRW metric) 
+
 ```
 $\Gamma^{\mu}_{\nu \beta} = g^{\mu \nu} = \Gamma_{\nu \alpha \beta} $
 ```
